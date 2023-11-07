@@ -1,1 +1,1 @@
-this text will be changed
+Hello, this project was created as a laboratory work

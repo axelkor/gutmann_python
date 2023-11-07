@@ -50,3 +50,4 @@ def write_pattern(file, file_size, pattern):
 if __name__ == "__main__":
     file_to_wipe = "file.txt"  #file name change to u file
     apply_to_file(file_to_wipe)
+    os.remove("file.txt")
